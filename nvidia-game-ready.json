@@ -1,0 +1,50 @@
+{
+  "lastUpdated": "06-23-25",
+  "warningMessage": "Nvidia drivers <a href=\"https://youtu.be/KrCEPX47vtw\" target=\"_blank\">576.02</a> and ones based on the 572.xx versions have known <a href=\"https://youtu.be/NTXoUsdSAnA\" target=\"_blank\"><u>instability issues</u></a>. It is recommended to install 566.36 or lower for stability.",
+  "drivers": [
+    {
+      "version": "576.80",
+      "type": "WHQL",
+      "releaseDate": "Tue Jun 17, 2025",
+      "downloadUrl": "https://us.download.nvidia.com/Windows/576.80/576.80-desktop-win10-win11-64bit-international-dch-whql.exe",
+      "redditUrl": "https://redd.it/1ldmjk7",
+      "hasWarning": false,
+      "isStable": false,
+      "stabilityGrade": null,
+      "warningUrl": null
+    },
+    {
+      "version": "576.52",
+      "type": "WHQL",
+      "releaseDate": "Mon May 19, 2025",
+      "downloadUrl": "https://us.download.nvidia.com/Windows/576.52/576.52-desktop-win10-win11-64bit-international-dch-whql.exe",
+      "redditUrl": "https://redd.it/1kqfdxx",
+      "hasWarning": false,
+      "isStable": false,
+      "stabilityGrade": null,
+      "warningUrl": null
+    },
+    {
+      "version": "576.02",
+      "type": "WHQL",
+      "releaseDate": "Wed Apr 16, 2025",
+      "downloadUrl": null,
+      "redditUrl": "https://redd.it/1k0iop7",
+      "hasWarning": true,
+      "isStable": false,
+      "stabilityGrade": null,
+      "warningUrl": "/display/warn/nvidia-576.02"
+    },
+    {
+      "version": "556.12",
+      "type": "WHQL",
+      "releaseDate": "Thu Jun 27, 2024",
+      "downloadUrl": "https://us.download.nvidia.com/Windows/556.12/556.12-desktop-win10-win11-64bit-international-dch-whql.exe",
+      "redditUrl": "https://redd.it/1dpqpo4",
+      "hasWarning": false,
+      "isStable": true,
+      "stabilityGrade": "A-",
+      "warningUrl": null
+    }
+  ]
+}
