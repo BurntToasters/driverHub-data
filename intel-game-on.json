@@ -1,0 +1,96 @@
+{
+  "lastUpdated": "06-23-25",
+  "warningMessage": null,
+  "drivers": [
+    {
+      "version": "32.0.101.6881",
+      "type": "WHQL Certified",
+      "releaseDate": "Jun 9, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/857041/gfx_win_101.6881.exe",
+      "redditUrl": "https://redd.it/1l7sa65",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6877",
+      "type": "",
+      "releaseDate": "Jun 5, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/856530/gfx_win_101.6877.exe",
+      "redditUrl": "https://redd.it/1l4fil2",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6876",
+      "type": "",
+      "releaseDate": "Jun 3, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/856438/gfx_win_101.6876.exe",
+      "redditUrl": "https://redd.it/1kzj7co",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6874",
+      "type": "WHQL Certified",
+      "releaseDate": "May 30, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/855955/gfx_win_101.6874.exe",
+      "redditUrl": "https://redd.it/1jljqs0",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6795",
+      "type": "",
+      "releaseDate": "May 23, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/855596/gfx_win_101.6795.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6793",
+      "type": "",
+      "releaseDate": "May 9, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/854560/gfx_win_101.6793.exe",
+      "redditUrl": "https://redd.it/1kizjsj",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6790",
+      "type": "WHQL Certified",
+      "releaseDate": "May 2, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/853993/gfx_win_101.6790.exe",
+      "redditUrl": "https://redd.it/1kdh5bj",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6739",
+      "type": "",
+      "releaseDate": "Apr 25, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/853435/gfx_win_101.6739.exe",
+      "redditUrl": "https://redd.it/1k801s0",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6737",
+      "type": "WHQL Certified",
+      "releaseDate": "Apr 23, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/853185/gfx_win_101.6737.exe",
+      "redditUrl": "https://redd.it/1k6dnms",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6734",
+      "type": "WHQL Certified",
+      "releaseDate": "Apr 8, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/851966/gfx_win_101.6734.exe",
+      "redditUrl": "https://redd.it/1jutg80",
+      "hasWarning": false,
+      "isStable": false
+    }
+  ]
+}

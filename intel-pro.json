@@ -1,0 +1,78 @@
+{
+  "lastUpdated": "03-31-25",
+  "warningMessage": "Note: Currently with the Arc Pro drivers, I am unable to find community threads on these versions, hence why there is no reddit/external community link on these.",
+  "drivers": [
+    {
+      "version": "32.0.101.6306",
+      "type": "",
+      "releaseDate": "Mar 27, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/850602/gfx_win_101.6637.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6306",
+      "type": "",
+      "releaseDate": "Jan 30, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/845932/gfx_win_101.6306.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6303",
+      "type": "",
+      "releaseDate": "Dec 20, 2024",
+      "downloadUrl": "https://downloadmirror.intel.com/843633/gfx_win_101.6303.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.5978",
+      "type": "",
+      "releaseDate": "Sep 20, 2024",
+      "downloadUrl": "https://downloadmirror.intel.com/833975/gfx_win_101.5978.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "31.0.101.5525",
+      "type": "",
+      "releaseDate": "Jun 28, 2024",
+      "downloadUrl": "https://downloadmirror.intel.com/826371/gfx_win_101.5525.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "31.0.101.5319/31.0.101.5321",
+      "type": "",
+      "releaseDate": "Mar 28, 2024",
+      "downloadUrl": "https://downloadmirror.intel.com/819588/gfx_win_101.5319_101.5321.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "31.0.101.5319",
+      "type": "",
+      "releaseDate": "Mar 8, 2024",
+      "downloadUrl": "https://downloadmirror.intel.com/817798/gfx_win_101.5319.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "31.0.101.4955",
+      "type": "",
+      "releaseDate": "Dec 21, 2023",
+      "downloadUrl": "https://downloadmirror.intel.com/795589/gfx_win_101.4955.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false
+    }
+  ]
+}
