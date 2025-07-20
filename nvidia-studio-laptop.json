@@ -27,7 +27,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1k0iop7",
       "hasWarning": true,
-      "warningUrl": "/display/warn/lptp/nvidia-576.02-nsd",
+      "warningUrl": "/warn?nvsl=576.02",
       "isStable": false
     },
     {
@@ -37,7 +37,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1jeddbc",
       "hasWarning": true,
-      "warningUrl": "/display/warn/lptp/nvidia-572.83-nsd",
+      "warningUrl": "/warn?nvsl=572.83",
       "isStable": false
     },
     {
@@ -47,7 +47,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1izfyyw",
       "hasWarning": true,
-      "warningUrl": "/display/warn/lptp/nvidia-572.60-nsd",
+      "warningUrl": "/warn?nvsl=572.60",
       "isStable": false
     },
     {
@@ -57,7 +57,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1idme1q",
       "hasWarning": true,
-      "warningUrl": "/display/warn/lptp/nvidia-572.16-nsd",
+      "warningUrl": "/warn?nvsl=572.16",
       "isStable": false
     },
     {
