@@ -27,7 +27,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1k0iop7",
       "hasWarning": true,
-      "warningUrl": "/warn?nvsd=576.02",
+      "warningUrl": "/display/warn?nvsd=576.02",
       "isStable": false
     },
     {
@@ -37,7 +37,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1jeddbc",
       "hasWarning": true,
-      "warningUrl": "/warn?nvsd=572.83",
+      "warningUrl": "/display/warn?nvsd=572.83",
       "isStable": false
     },
     {
@@ -47,7 +47,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1izfyyw",
       "hasWarning": true,
-      "warningUrl": "/warn?nvsd=572.60",
+      "warningUrl": "/display/warn?nvsd=572.60",
       "isStable": false
     },
     {
@@ -57,7 +57,7 @@
       "downloadUrl": null,
       "redditUrl": "https://redd.it/1idme1q",
       "hasWarning": true,
-      "warningUrl": "/warn?nvsd=572.16",
+      "warningUrl": "/display/warn?nvsd=572.16",
       "isStable": false
     },
     {
