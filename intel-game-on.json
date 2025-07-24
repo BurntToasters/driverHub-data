@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "06-23-25",
+  "lastUpdated": "07-23-25",
   "warningMessage": null,
   "drivers": [
+    {
+      "version": "32.0.101.6972",
+      "type": "",
+      "releaseDate": "Jul 22, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/861295/gfx_win_101.6972.exe",
+      "redditUrl": "https://redd.it/1lmc0j1",
+      "hasWarning": false,
+      "isStable": false
+    },
+    {
+      "version": "32.0.101.6913",
+      "type": "WHQL Certified",
+      "releaseDate": "Jun 27, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/858734/gfx_win_101.6913.exe",
+      "redditUrl": "https://redd.it/1lmc0j1",
+      "hasWarning": false,
+      "isStable": false
+    },
     {
       "version": "32.0.101.6881",
       "type": "WHQL Certified",
