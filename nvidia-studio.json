@@ -9,7 +9,8 @@
       "downloadUrl": "https://us.download.nvidia.com/Windows/577.00/577.00-desktop-win10-win11-64bit-international-nsd-dch-whql.exe",
       "redditUrl": "https://redd.it/1m6f19v",
       "hasWarning": false,
-      "isStable": false
+      "isStable": false,
+      "sha256sum": "DF1DAB1D45BF80ABB6CB3509572E8B8F9930F4725399B058141A88BFA25D69F9"
     },
     {
       "version": "576.80",

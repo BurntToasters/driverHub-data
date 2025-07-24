@@ -10,7 +10,8 @@
       "redditUrl": "https://redd.it/1m6f19v",
       "hasWarning": false,
       "isStable": false,
-      "stabilityGrade": null
+      "stabilityGrade": null,
+      "sha256sum": "A66442AF77CDB57E24BF80BAA46CE88B8AA5D9CC61E71AC0BD5FE5068E065BF5"
     },
     {
       "version": "576.88",
