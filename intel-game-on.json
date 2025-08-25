@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "07-23-25",
+  "lastUpdated": "08-24-25",
   "warningMessage": null,
   "drivers": [
+    {
+      "version": "32.0.101.7026",
+      "type": "WHQL Certified",
+      "releaseDate": "Aug 22, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/863047/gfx_win_101.7026.exe",
+      "redditUrl": "https://redd.it/1mxndub",
+      "hasWarning": false,
+      "isStable": false,
+      "sha256sum": "68986D0F954E727C4080DD81A98C57ED0DB00947E26EF28A8A1D3480132A12D1"
+    },
+    {
+      "version": "32.0.101.6989",
+      "type": "",
+      "releaseDate": "Aug 8, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/862321/gfx_win_101.6989.exe",
+      "redditUrl": "https://redd.it/1ml4m1z",
+      "hasWarning": false,
+      "isStable": false,
+      "sha256sum": "C83CEA596B7C244D816D85A03E55393B66A9C22104BB5A58A6E3AA4684EF08C0"
+    },
+    {
+      "version": "32.0.101.6987",
+      "type": "WHQL Certified",
+      "releaseDate": "Aug 6, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/861411/gfx_win_101.6987.exe",
+      "redditUrl": "https://redd.it/1mjmzu2",
+      "hasWarning": false,
+      "isStable": false,
+      "sha256sum": "4AAC97480BD07D3B35A99076344959A850651921B628D1D6046B51FCD6AEEBFD"
+    },
     {
       "version": "32.0.101.6972",
       "type": "",
