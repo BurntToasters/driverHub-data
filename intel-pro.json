@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "07-23-25",
+  "lastUpdated": "09-15-25",
   "warningMessage": "Note: Currently with the Arc Pro drivers, I am unable to find community threads on these versions, hence why there is no reddit/external community link on these.",
   "drivers": [
+    {
+      "version": "32.0.101.6979",
+      "type": "",
+      "releaseDate": "Sep 03, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/861406/gfx_win_101.6979.exe",
+      "redditUrl": null,
+      "hasWarning": false,
+      "isStable": false,
+      "sha256sum": "60B5E79C7372394E72714DE1F20CC234E42045EA9CECB16746914BBD1A9E8CE9"
+    },
     {
       "version": "32.0.101.6862",
       "type": "",
