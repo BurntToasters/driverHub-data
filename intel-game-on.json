@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "09-15-25",
+  "lastUpdated": "09-28-25",
   "warningMessage": null,
   "drivers": [
+    {
+      "version": "32.0.101.8132",
+      "type": "WHQL Certified",
+      "releaseDate": "Sep 23, 2025",
+      "downloadUrl": "https://downloadmirror.intel.com/865175/gfx_win_101.8132.exe",
+      "redditUrl": "https://redd.it/1np7q86",
+      "hasWarning": false,
+      "isStable": false,
+      "sha256sum": "4D1FBBFB0ABD720393700C39A665F2458A2BA62A3E7796E5206DCC6DC364700B"
+    },
     {
       "version": "32.0.101.7029",
       "type": "",
