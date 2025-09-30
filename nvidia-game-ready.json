@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09-15-25",
+  "lastUpdated": "09-30-25",
   "warningMessage": "Nvidia drivers <a href=\"https://youtu.be/KrCEPX47vtw\" target=\"_blank\">576.02</a> and ones based on the 572.xx versions have known <a href=\"https://youtu.be/NTXoUsdSAnA\" target=\"_blank\"><u>instability issues</u></a>. It is recommended to install 566.36 or lower for stability.",
   "drivers": [
     {
